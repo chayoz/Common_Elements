@@ -16,7 +16,6 @@ namespace Common_Elements
             {
                 Console.WriteLine(c);
             }
-            Console.ReadKey();
         }
     }
 }
